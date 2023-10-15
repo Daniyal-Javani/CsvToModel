@@ -46,7 +46,7 @@ function getClassContent ()
 {
     return '<?php
 
-namespace App\ModelsIndirectEmissionsOwned\Electricity;
+namespace App\Models\IndirectEmissionsOwned\Electricity;
 
 use Illuminate\Database\Eloquent\Model;
 

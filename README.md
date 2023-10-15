@@ -1,4 +1,4 @@
-This apptakes a CSV file as input, like the example below, and generates Laravel Model files based on the data.
+This app takes a CSV file as input, like the example below, and generates Laravel Model files based on the data.
 
 ```
 "indirect-emissions-owned,electricity",meeting-rooms
