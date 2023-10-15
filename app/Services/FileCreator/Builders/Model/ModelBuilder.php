@@ -26,7 +26,7 @@ class ModelBuilder extends BaseFileBuilder implements FileBuilder
 
     protected function getBaseNamespace(): string
     {
-        return 'App\Models';
+        return 'App\Models\\';
     }
 
     protected function getBaseFilePath(): string
